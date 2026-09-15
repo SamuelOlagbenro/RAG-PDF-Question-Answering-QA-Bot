@@ -1,6 +1,4 @@
 # RAG-PDF-Question-Answering-QA-Bot
-RAG-Powered Question Answering bot for PDF Documents using Langchain &amp; LLM
-# PDF Question Answering Bot
 
 A Retrieval-Augmented Generation (RAG) application that enables users to upload PDF documents and ask natural language questions about their content. The bot leverages IBM's Granite models and LangChain to deliver accurate, context-aware answers.
 
