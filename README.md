@@ -95,12 +95,6 @@ This project demonstrates a real-world implementation of RAG concepts by buildin
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Python 3.9+
-- IBM Cloud account with Watsonx AI access
-- Project ID: `skills-network`
-
 ### Installation
 
 1. **Clone the repository**
@@ -238,46 +232,9 @@ This project demonstrates a complete RAG pipeline:
 | **Scalability** | Can handle PDFs up to tens of MB |
 | **Accuracy** | Depends on document quality and query specificity |
 
----
-
-## 🎓 Learning Outcomes
-
-By studying this project, you'll understand:
-
-- ✅ How RAG systems work end-to-end
-- ✅ Text preprocessing and chunking strategies
-- ✅ Vector embeddings and similarity search
-- ✅ LangChain framework usage
-- ✅ Integrating multiple AI services (embeddings + LLM)
-- ✅ Building production-ready web interfaces with Gradio
-- ✅ Cloud AI platform integration (IBM Watsonx)
 
 ---
 
-## 🔄 Future Enhancements
-
-- [ ] Support for multiple document formats (DOCX, TXT, HTML)
-- [ ] Advanced filtering (date, category, confidence scores)
-- [ ] Conversation memory for multi-turn QA
-- [ ] Citation and source highlighting
-- [ ] Batch processing for multiple PDFs
-- [ ] Prompt engineering for domain-specific answers
-- [ ] Performance metrics dashboard
-- [ ] Docker containerization
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📝 License
 
