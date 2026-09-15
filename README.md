@@ -7,7 +7,7 @@ A Retrieval-Augmented Generation (RAG) application that enables users to upload 
 ![Gradio](https://img.shields.io/badge/Gradio-UI-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Production Ready](https://img.shields.io/badge/Production--Ready-Yes-brightgreen)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FFDE2D?style=for-the-badge&logo=chroma&logoColor=black)](https://www.trychroma.com/)
 
 ---
 
