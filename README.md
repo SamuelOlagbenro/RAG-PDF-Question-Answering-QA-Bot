@@ -2,12 +2,11 @@
 
 A Retrieval-Augmented Generation (RAG) application that enables users to upload PDF documents and ask natural language questions about their content. The bot leverages IBM's Granite models and LangChain to deliver accurate, context-aware answers.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-framework-green.svg)
 ![Gradio](https://img.shields.io/badge/Gradio-UI-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Production Ready](https://img.shields.io/badge/Production--Ready-Yes-brightgreen)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-FFDE2D?style=for-the-badge&logo=chroma&logoColor=black)](https://www.trychroma.com/)
 
 ---
 
